@@ -12,7 +12,7 @@ congressional election.
 
 ## Resources
 - Data Source: election results.csv
-- Software: Python 3.9.7, Visual Studio Code, 1.38.1
+- Software: Python 3.9.7, Visual Studio Code, 1.66.1
 
 ## Summary
 The analysis of the election show that:
@@ -23,7 +23,7 @@ The analysis of the election show that:
   - Diana DeGette
   - Raymon Anthony Doane
  
-- THe candidate results were:
+- The candidate results were:
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes,
   - Diana DeGette received 73.8% of the vote and 272,892 number of votes,
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes,
