@@ -12,7 +12,7 @@ congressional election.
 
 ## Resources
 - Data Source: election results.csv
-- Software: Python 3.9.7, Visual Studio Code, 1.66.1
+- Software: Python 3.7.6, Visual Studio Code, 1.66.1
 
 ## Summary
 The analysis of the election show that:
@@ -32,5 +32,10 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+### Overview of Election Audit:
+To assist the election commission with finalizing their audit, an analysis was performed to determine the following additional pieces of data:
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
 
 ## Challenge Summary
