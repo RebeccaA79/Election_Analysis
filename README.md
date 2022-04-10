@@ -42,14 +42,14 @@ To assist the election commission with finalizing their audit, an analysis was p
 ### Election-Audit Results
 The following key pieces of information were confirmed through the data analysis:
 
- - There were 369,711 votes cast in the election.
+- There were 369,711 votes cast in the election.
  
- - The following shows a breakdown of votes for each county:
+- The following shows a breakdown of votes for each county:
   - Jefferson: 10.5% (38,855)
   - Denver: 82.8% (306,055)
   - Arapahoe: 6.7% (24,801)
  
-- Denver county had the largest number of votes cast
+ - Denver county had the largest number of votes cast
 
 - Breakdown of votes and percentage of the total for each candidate:
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes,
