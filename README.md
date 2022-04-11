@@ -59,4 +59,4 @@ The following key pieces of information were confirmed through the data analysis
 - The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ### Election-Audit Summary
-The python script that was used to run the above analysis is very flexible and can be tailored to analyze election data in different layouts and levels.
+The python script that was used to run the above analysis is very flexible and can be tailored to analyze future elections. In addition to the summary and statistics that were provided above, the script can be modified to view data in different formats and levels. As an example, if there was additional information available on the voting population, such as demographics (i.e. male/female), this could be captured withing the python script and summarized within the final election results, thus providing a more robust analysis of the election.
