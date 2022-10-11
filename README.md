@@ -11,7 +11,7 @@ congressional election.
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-- Data Source: election results.csv
+- Data Source: ![election results.csv](https://github.com/RebeccaA79/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software: Python 3.7.6, Visual Studio Code, 1.66.1
 
 ## Summary
