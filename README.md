@@ -18,6 +18,8 @@ congressional election.
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 
+![Election Results](https://github.com/RebeccaA79/Election_Analysis/blob/main/Resources/ElectionResults.png)
+
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
